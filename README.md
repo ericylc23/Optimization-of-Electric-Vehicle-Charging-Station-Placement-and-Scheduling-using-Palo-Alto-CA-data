@@ -72,15 +72,18 @@ The dataset includes detailed information about charging sessions:
 ---
 
 ## 🌍 Geographical Analysis
+
+![Heat Map](./ev_heatmap.jpg)
 ### 📌 **Cluster Summary**
 | Cluster | # Stations | Avg Energy Consumption | Insights |
 |---------|------------|------------------------|----------|
-| **0** | Few stations | **Highest consumption** | High demand, potential for expansion |
-| **1** | More stations | **Lower consumption** | Possible station redundancy |
-| **2** | Moderate | Low | Balanced distribution |
+| **0** | High | low | Low demand, Possible station redundancy |
+| **1** | High | Moderate | Balanced distribution |
+| **2** | Moderate | Moderate | Needs more stations |
 | **3** | Low | High | Underserved, needs more stations |
-| **4** | Low | High | Potential for future growth |
+| **4** | Low | High | Underserved, needs more stations |
 
+![Pie Chart](./ev_pie.jpg)
 📍 **Key Findings:**
 - **Cluster 0**: **High demand**, but fewer stations → Suggests expansion.
 - **Cluster 1**: **More stations but low usage** → May need redistribution.
