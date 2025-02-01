@@ -77,9 +77,9 @@ The dataset includes detailed information about charging sessions:
 |---------|------------|------------------------|----------|
 | **0** | Few stations | **Highest consumption** | High demand, potential for expansion |
 | **1** | More stations | **Lower consumption** | Possible station redundancy |
-| **2** | Moderate | Moderate | Balanced distribution |
-| **3** | Low | Low | Underserved, needs more stations |
-| **4** | Low | Low | Potential for future growth |
+| **2** | Moderate | Low | Balanced distribution |
+| **3** | Low | High | Underserved, needs more stations |
+| **4** | Low | High | Potential for future growth |
 
 📍 **Key Findings:**
 - **Cluster 0**: **High demand**, but fewer stations → Suggests expansion.
