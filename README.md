@@ -140,6 +140,12 @@ The dataset includes detailed information about charging sessions:
 ## 🚀 How to Use This Project
 ### 🛠 Installation
 ```bash
-git clone https://github.com/yourusername/EV-Charging-Optimization.git
+git clone https://github.com/ericylc23/EV-Charging-Optimization.git
 cd EV-Charging-Optimization
 pip install -r requirements.txt
+```
+## 📬 Contact
+For questions or collaborations, please reach out to me via:
+
+📧 Email: ericylc@bu.edu
+🔗 LinkedIn: https://www.linkedin.com/in/eric-yuanlc/
