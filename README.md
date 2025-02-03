@@ -74,6 +74,7 @@ The dataset includes detailed information about charging sessions:
 ## 🌍 Geographical Analysis
 
 ![Heat Map](./ev_heatmap.jpg)
+## Lighter the color indicates fewer engergy consumption, Darker the color indicates higher energy consumption.
 ### 📌 **Cluster Summary**
 | Cluster | # Stations | Avg Energy Consumption | Insights |
 |---------|------------|------------------------|----------|
@@ -87,7 +88,8 @@ The dataset includes detailed information about charging sessions:
 📍 **Key Findings:**
 - **Cluster 0**: **High demand**, but fewer stations → Suggests expansion.
 - **Cluster 1**: **More stations but low usage** → May need redistribution.
-- **Clusters 3 & 4**: **Underserved areas** → Strong candidates for new charging stations.
+- **Clusters 2 & 3**: **Balanced distribution"
+- **Cluster 4**: **Underserved areas** → Strong candidates for new charging stations.
 
 ---
 
