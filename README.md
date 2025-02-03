@@ -109,7 +109,7 @@ The dataset includes detailed information about charging sessions:
 ## 📊 Results & Discussion
 ### 📌 **Station Distribution**
 - **Geographical clustering** and **station summaries** identified opportunities for **redistribution**:
-  - **Reallocating stations from Cluster 0 to Clusters 3 & 4** can **balance demand**.
+  - **Reallocating stations from Cluster 0 to Clusters 1 & 4** can **balance demand**.
   - Future growth planning should consider **regional EV ownership trends**.
 
 ### 🕒 **Scheduling Performance**
