@@ -78,18 +78,18 @@ The dataset includes detailed information about charging sessions:
 ### 📌 **Cluster Summary**
 | Cluster | # Stations | Avg Energy Consumption | Insights |
 |---------|------------|------------------------|----------|
-| **0** | High | low | Low demand, Possible station redundancy |
-| **1** | High | Moderate | Balanced distribution |
+| **0** | High | High | High demand, Balanced distribution |
+| **1** | Moderate | Moderate | Needs more stations |
 | **2** | Moderate | Moderate | Needs more stations |
-| **3** | Low | High | Underserved, needs more stations |
-| **4** | Low | High | Underserved, needs more stations |
+| **3** | Low | Low | Balanced distribution  |
+| **4** | Low | Low | Underserved, needs more stations |
 
 ![Pie Chart](./ev_pie.jpg)
 📍 **Key Findings:**
 - **Cluster 0**: **High demand**, but fewer stations → Suggests expansion.
 - **Cluster 1**: **More stations but low usage** → May need redistribution.
 - **Clusters 2 & 3**: **Balanced distribution"
-- **Cluster 4**: **Underserved areas** → Strong candidates for new charging stations.
+- **Cluster 4**: **Underserved areas** → May need redistribution.
 
 ---
 
