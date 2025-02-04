@@ -88,7 +88,7 @@ The dataset includes detailed information about charging sessions:
 📍 **Key Findings:**
 - **Cluster 0**: **High demand**, but fewer stations → Suggests expansion.
 - **Cluster 1**: **More stations but low usage** → May need redistribution.
-- **Clusters 2 & 3**: **Balanced distribution"
+- **Clusters 2 & 3**: **Balanced distribution**
 - **Cluster 4**: **Underserved areas** → May need redistribution.
 
 ---
