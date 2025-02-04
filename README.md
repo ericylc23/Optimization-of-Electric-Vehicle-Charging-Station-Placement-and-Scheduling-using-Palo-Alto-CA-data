@@ -74,7 +74,7 @@ The dataset includes detailed information about charging sessions:
 ## 🌍 Geographical Analysis
 
 ![Heat Map](./cluster_by_engy_consumption.png)
-## Lighter the color indicates fewer engergy consumption, Darker the color indicates higher energy consumption.
+## Lighter the color indicates higher engergy consumption, Darker the color indicates lower energy consumption.
 ### 📌 **Cluster Summary**
 | Cluster | # Stations | Avg Energy Consumption | Insights |
 |---------|------------|------------------------|----------|
