@@ -80,9 +80,9 @@ The dataset includes detailed information about charging sessions:
 |---------|------------|------------------------|----------|
 | **0** | High | High | High demand, Balanced distribution |
 | **1** | Moderate | Moderate | Needs more stations |
-| **2** | Moderate | Moderate | Needs more stations |
+| **2** | Moderate | Low | Balanced distribution |
 | **3** | Low | Low | Balanced distribution  |
-| **4** | Low | Low | Underserved, needs more stations |
+| **4** | Low | Moderate | needs more stations |
 
 ![Pie Chart](./ev_pie.jpg)
 📍 **Key Findings:**
